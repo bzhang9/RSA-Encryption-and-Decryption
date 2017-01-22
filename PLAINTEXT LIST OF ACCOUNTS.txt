@@ -1,0 +1,8 @@
+A list of usernames and passwords which will grant access to the methods in hidden.java
+
+Order is: username, password
+
+mmmm, zzzz
+test, buddy
+user3, a
+RSA, cryptography
